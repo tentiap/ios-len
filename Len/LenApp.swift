@@ -2,7 +2,7 @@
 //  LenApp.swift
 //  Len
 //
-//  Created by Tenti Atika Putri on 14/12/23.
+//  Created by Putri on 14/12/23.
 //
 
 import SwiftUI
